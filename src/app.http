@@ -1,1 +1,5 @@
-GET http://localhost:3000
+### GET App
+GET http://localhost:3000/app
+
+### POST Users
+GET http://localhost:3000/app/users
